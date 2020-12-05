@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probab_lab_1", "Probab_lab_1\Probab_lab_1.csproj", "{EA4B06F1-635C-465C-8AE9-9176844B081B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probab_lab_2", "Probab_lab_2\Probab_lab_2.csproj", "{353BA58A-94C5-4EA2-8604-C5E55EB0A136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4B06F1-635C-465C-8AE9-9176844B081B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4B06F1-635C-465C-8AE9-9176844B081B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4B06F1-635C-465C-8AE9-9176844B081B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4B06F1-635C-465C-8AE9-9176844B081B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353BA58A-94C5-4EA2-8604-C5E55EB0A136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353BA58A-94C5-4EA2-8604-C5E55EB0A136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353BA58A-94C5-4EA2-8604-C5E55EB0A136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353BA58A-94C5-4EA2-8604-C5E55EB0A136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
